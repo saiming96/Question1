@@ -5,6 +5,5 @@
 3. Update '.env' file, change APP_URL to your local url. For example: http://localhost/Question2/public
 4. Run command 'composer install'
 5. Run command 'npm install'
-6. Run command 'php artisan migrate'
 
 ##Note: If the system do not run as expected, please make sure 'APP_URL' is set correctly
