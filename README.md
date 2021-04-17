@@ -1,4 +1,5 @@
 # laravel-convert-message-lowercase
+![screenshots of example app](/screenshot1.jpg)
 ## Convert message into lowercase
 A simple laravel project to convert message of the textbox into lowercase.
 
