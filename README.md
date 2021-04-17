@@ -14,7 +14,7 @@ Step 2:
 Rename '.env.example' to '.env' or Create '.env' file and copy the code from '.env.example' to '.env'
 
 Step 3:
-Edit '.env' file change APP_URL & Database Connection
+Edit '.env' file change APP_URL
 
 Step 4:
 ```sh
