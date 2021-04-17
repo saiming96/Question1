@@ -6,7 +6,7 @@
                 <input type="text" name="message" id="message" wire:model="message" class="shadow-sm focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-300 rounded-md" placeholder="message">
             </div>
             <div class="w-full mt-4">
-                <p>Result: {{ $result }}</p>
+                <p>Result: <span class="font-semibold text-indigo-600">{{ $result }}</span></p>
             </div>
             <div class="w-full text-right">
                 <button type="submit" wire:click="convert" class="mt-4 ml-3 inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
