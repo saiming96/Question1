@@ -1,4 +1,4 @@
-# Question1
+# laravel-convert-message-lowercase
 ## Convert message into lowercase
 A simple laravel project to convert message of the textbox into lowercase.
 
@@ -9,6 +9,10 @@ A simple laravel project to convert message of the textbox into lowercase.
 
 ## Installation
 Step 1: Clone or download the project
+```sh
+# To clone the project clone the project
+git clone https://github.com/saiming96/laravel-convert-message-lowercase.git
+```
 
 Step 2: 
 Rename '.env.example' to '.env' or Create '.env' file and copy the code from '.env.example' to '.env'
@@ -18,7 +22,7 @@ Edit '.env' file change APP_URL
 
 Step 4:
 ```sh
-cd Question1
+cd laravel-convert-message-lowercase
 composer install
 npm install
 npm run dev
